@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: rgba(34,47,62,255);
+    width: 100%;
+    overflow: hidden;
+}
+
+#amazon_logo {
+    height: 50px;
+    padding-block: 0.7rem;
+    padding-left: 2rem;
+}
+
+.topbar {
+    background-color: rgba(53,71,88,255);
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.topbar a {
+    color: rgba(231,234,235,255);
+    text-decoration: none;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    display: inline-block;
+}
+
+#all {
+    padding-left: 2rem;
+}
